@@ -68,3 +68,10 @@ h2{
 .btn:hover::before{
     height: 100%;
 }
+
+.facts{
+    margin-top: 100px;
+    border-style: dashed;
+    border-color: whitesmoke;
+    b
+}
